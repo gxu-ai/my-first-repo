@@ -3,7 +3,7 @@
 
 def main():
     print("Hello, world! This is my updated GitHub repo.")
-    print("added online!")
+    print("this is added online!")
 
 if __name__ == "__main__":
     main()
